@@ -1,0 +1,44 @@
+[
+	{ 
+	   "serial": 1,
+	   "size": 36, 
+	   "color": "black", 
+	   "gender": "women", 
+	   "type": "high heels"
+	},
+	{ 	
+	   "serial": 2,
+	   "size": 38, 
+	   "color": "red", 
+	   "gender": "women", 
+	   "type": "flats"
+	},
+	{ 
+	   "serial": 3,
+	   "size": 36, 
+	   "color": "black", 
+	   "gender": "women", 
+	   "type": "boots"
+	},
+	{ 
+	   "serial": 4,
+	   "size": 42, 
+	   "color": "black", 
+	   "gender": "men", 
+	   "type": "sneakers"
+	},
+	{ 
+	   "serial": 5,
+	   "size": 42, 
+	   "color": "white", 
+	   "gender": "men", 
+	   "type": "sneakers"
+	},
+	{ 
+	   "serial": 6,
+	   "size": 44, 
+	   "color": "black", 
+	   "gender": "men", 
+	   "type": "boots"
+	}
+]
